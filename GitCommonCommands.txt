@@ -1,0 +1,5 @@
+1)git init :For initializing the git rrpository.
+2) git add origin <Link> to add remote repo
+3) git pull : to pull the files.
+4) git push : to push our changes to central repository.
+5) git remote add origin "link": to add the origin
