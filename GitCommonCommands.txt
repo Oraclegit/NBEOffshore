@@ -3,3 +3,4 @@
 3) git pull : to pull the files.
 4) git push : to push our changes to central repository.
 5) git remote add origin "link": to add the origin
+6)
